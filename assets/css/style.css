@@ -5080,8 +5080,8 @@ blockquote .quote_content {
 }
 
 .brand_logo_item img {
-  max-height: 70px;
-  max-width: 160px;
+  max-height: 120px;
+  max-width: 100%;
 }
 
 /* 3.8 - Brands Logo - End
