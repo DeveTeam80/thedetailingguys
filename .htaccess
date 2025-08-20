@@ -16,3 +16,6 @@ ErrorDocument 404 /404.html
 #URL Redirections
 Redirect 301 /ppf-coating-in-pune /car-exterior-services-in-pune/ppf-coating-in-pune
 Redirect 301 /vinyl-wraps-services-in-pune /car-exterior-services-in-pune/vinyl-wraps-services-in-pune
+Redirect 301 /ceramic_coating_in_pune /car-exterior-services-in-pune/ceramic_coating_in_pune
+Redirect 301 /poylmer-coating-in-pune /car-exterior-services-in-pune/poylmer-coating-in-pune
+Redirect 301 /internal-panel-rust-protection /car-exterior-services-in-pune/internal-panel-rust-protection
