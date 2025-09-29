@@ -2696,9 +2696,9 @@ blockquote .quote_content {
   margin-top: 120px;
 }
 
-.hero_section_3 {
+/* .hero_section_3 {
   padding: 210px 0 0;
-}
+} */
 
 .hero_section_3 .hero_section_image {
   max-width: 750px;
@@ -2744,28 +2744,28 @@ blockquote .quote_content {
 }
 
 .hero_section_3 map area:nth-child(1) {
-  top: 37%;
-  left: 12%;
+  top: 33%;
+    left: 39%;
 }
 
 .hero_section_3 map area:nth-child(2) {
-  top: 15%;
-  left: 45%;
+      top: 27%;
+    left: 66%;
 }
 
 .hero_section_3 map area:nth-child(3) {
-  top: 33%;
+  top: 60%;
   right: 8%;
 }
 
 .hero_section_3 map area:nth-child(4) {
   top: 44%;
-  left: 68%;
+  left: 74%;
 }
 
 .hero_section_3 map area:nth-child(5) {
-  left: 48%;
-  bottom: 34%;
+  left: 60%;
+    bottom: 19%;
 }
 
 .hero_section_3 .outline_text {
