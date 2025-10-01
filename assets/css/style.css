@@ -921,11 +921,12 @@ mark {
 
 .info_list .info_text {
   display: table;
-  
+
 }
 
 .info_list .info_text::first-letter {
-  text-transform: none; /* makes only first letter uppercase */
+  text-transform: none;
+  /* makes only first letter uppercase */
 }
 
 
@@ -2701,9 +2702,9 @@ blockquote .quote_content {
 } */
 
 .hero_section_3 .hero_section_image {
-  max-width: 750px;
+  max-width: 100%;
   position: relative;
-  margin: -330px auto auto 220px;
+  /* margin: -330px auto auto 220px; */
 }
 
 .hero_section_3 map {
@@ -2726,7 +2727,7 @@ blockquote .quote_content {
 .hero_section_3 map area:after {
   right: 100%;
   bottom: 100%;
-  display: none;
+  /* display: none; */
   font-size: 14px;
   font-weight: 600;
   padding: 9px 15px;
@@ -2745,12 +2746,12 @@ blockquote .quote_content {
 
 .hero_section_3 map area:nth-child(1) {
   top: 33%;
-    left: 39%;
+  left: 39%;
 }
 
 .hero_section_3 map area:nth-child(2) {
-      top: 27%;
-    left: 66%;
+  top: 27%;
+  left: 66%;
 }
 
 .hero_section_3 map area:nth-child(3) {
@@ -2765,7 +2766,7 @@ blockquote .quote_content {
 
 .hero_section_3 map area:nth-child(5) {
   left: 60%;
-    bottom: 19%;
+  bottom: 19%;
 }
 
 .hero_section_3 .outline_text {
@@ -3227,6 +3228,12 @@ blockquote .quote_content {
   margin: 10px 0 16px;
 }
 
+.aircraft-services .service_item .item_title {
+ font-size: 23px;
+ font-weight: 700;
+ color: #D16527;
+}
+
 .service_item .item_title a {
   color: var(--bs-body-color);
 }
@@ -3655,7 +3662,7 @@ blockquote .quote_content {
   width: 300px;
   height: 200px;
   box-sizing: border-box;
-    box-sizing: border-box;
+  box-sizing: border-box;
   overflow: hidden;
 }
 
@@ -3691,10 +3698,11 @@ blockquote .quote_content {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.3); 
+  background: rgba(0, 0, 0, 0.3);
   opacity: 0;
   transition: opacity 0.3s ease;
-  z-index: 0; /* Behind the content */
+  z-index: 0;
+  /* Behind the content */
 }
 
 .service_duration_item:hover .bg-overlay {
@@ -3723,7 +3731,7 @@ blockquote .quote_content {
 
 .service_duration_item:hover:before {
   opacity: 0.10;
-  color: #fff; 
+  color: #fff;
 }
 
 .service_duration_item .item_title {
@@ -3767,7 +3775,7 @@ blockquote .quote_content {
     padding-left: 15px;
     padding-right: 15px;
   }
-} 
+}
 
 
 
@@ -3984,25 +3992,28 @@ blockquote .quote_content {
   text-align: justify;
 }
 
-.workprocess_item{
+.workprocess_item {
   padding: 22px 80px 0 0;
   -webkit-transition: var(--bs-transition);
   transition: var(--bs-transition);
-  border-top: 1px solid var(--bs-border-color-translucent);  
+  border-top: 1px solid var(--bs-border-color-translucent);
 }
 
 .row {
   display: flex;
   flex-wrap: wrap;
 }
+
 .custom-5col {
   display: flex;
 }
+
 .workprocess_item1 {
   flex-grow: 1;
   display: flex;
   flex-direction: column;
-  justify-content: space-between; /* optional */
+  justify-content: space-between;
+  /* optional */
 }
 
 .row {
@@ -4053,6 +4064,7 @@ blockquote .quote_content {
   margin-bottom: 14px;
   /* text-align: justify; */
 }
+
 .workprocess_item .item_title:has(mark, .item_icon) {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -5233,13 +5245,15 @@ blockquote .quote_content {
   .testimonial_item_boxed .testimonial_item {
     width: 100% !important;
     max-width: 100% !important;
-    height: auto !important; /* allow full height */
+    height: auto !important;
+    /* allow full height */
     padding: 24px 16px !important;
   }
 
   .testimonial_item .testimonial_content {
     height: auto !important;
-    -webkit-line-clamp: unset !important; /* show full text */
+    -webkit-line-clamp: unset !important;
+    /* show full text */
     overflow: visible !important;
     display: block !important;
   }
@@ -7889,6 +7903,7 @@ Responsive For Mobile & Tablet Devices
 
 
 @media screen and (max-width: 430px) {
+
   body,
   html {
     overflow-x: hidden;
@@ -8635,7 +8650,7 @@ Responsive For Mobile & Tablet Devices
 
 @media (max-width: 768px) {
   .ceramic-info-section {
-    padding-top: 0px !important; 
+    padding-top: 0px !important;
   }
 }
 
@@ -8711,16 +8726,17 @@ Responsive For Mobile & Tablet Devices
     font-size: 30px;
     text-align: left !important;
   }
+
   .deals_section.row {
-    flex-wrap: nowrap;       
-    overflow-x: auto;         
+    flex-wrap: nowrap;
+    overflow-x: auto;
     flex-direction: row;
   }
 
   .deals_section .custom-5col {
     flex: 0 0 auto;
-    width: 80%;               
-    margin-right: 15px;       
+    width: 80%;
+    margin-right: 15px;
   }
 }
 
@@ -8730,15 +8746,16 @@ Responsive For Mobile & Tablet Devices
     font-size: 26px;
     text-align: left !important;
   }
+
   .deals_section.row {
-    flex-wrap: nowrap;      
-    overflow-x: auto;       
-    flex-direction: row;    
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    flex-direction: row;
   }
 
   .deals_section .custom-5col {
     flex: 0 0 auto;
-    width: 80%;            
+    width: 80%;
     margin-right: 15px;
   }
 }
@@ -8750,16 +8767,17 @@ Responsive For Mobile & Tablet Devices
     padding: 0 10px;
     text-align: left !important;
   }
+
   .deals_section.row {
     flex-direction: row;
-    flex-wrap: nowrap;       
-    overflow-x: auto;        
-    gap: 15px;               
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 15px;
   }
 
   .deals_section .custom-5col {
     flex: 0 0 auto;
-    width: 80%;              
+    width: 80%;
     margin-right: 10px;
   }
 }
@@ -9084,7 +9102,8 @@ Responsive For Mobile & Tablet Devices
 }
 
 .services-list li {
-  padding-top: 8px; /* Add top padding */
+  padding-top: 8px;
+  /* Add top padding */
 }
 
 .services-list li::marker {
@@ -9106,66 +9125,69 @@ Responsive For Mobile & Tablet Devices
 
 /* Base styles for select */
 .styled-select {
-    width: 100%;
-    padding: 10px 14px;
-    font-size: 16px;
-    border: 1px solid #444;
-    border-radius: 6px;
-    outline: none;
-    color: #fff;
-    background-color: #1e1e1e;
-    
-    /* Custom arrow */
-    appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    background-image: url("data:image/svg+xml,%3Csvg width='10' height='7' viewBox='0 0 10 7' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1L5 5L9 1' stroke='%23fff' stroke-width='2'/%3E%3C/svg%3E");
-    background-repeat: no-repeat;
-    background-position: right 14px center;
-    background-size: 10px;
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 16px;
+  border: 1px solid #444;
+  border-radius: 6px;
+  outline: none;
+  color: #fff;
+  background-color: #1e1e1e;
+
+  /* Custom arrow */
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg width='10' height='7' viewBox='0 0 10 7' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1L5 5L9 1' stroke='%23fff' stroke-width='2'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+  background-size: 10px;
 }
 
 /* Firefox accessibility fix */
 .styled-select:-moz-focusring {
-    color: #fff;
-    text-shadow: 0 0 0 #fff;
+  color: #fff;
+  text-shadow: 0 0 0 #fff;
 }
 
 /* Option group styles */
 .styled-select optgroup {
-    background-color: #1e1e1e !important;
-    color: #fff;
-    font-weight: bold;
-    padding: 4px 10px;
-    margin: 0;
+  background-color: #1e1e1e !important;
+  color: #fff;
+  font-weight: bold;
+  padding: 4px 10px;
+  margin: 0;
 }
 
 /* Option styles */
 .styled-select option {
-    background-color: #1e1e1e !important;
-    color: #fff;
-    border: none;
+  background-color: #1e1e1e !important;
+  color: #fff;
+  border: none;
 }
 
 /* Remove white highlight on selected/hovered options */
 .styled-select option:checked,
 .styled-select option:hover,
 .styled-select option:focus {
-    background-color: #333 !important;
-    color: #fff !important;
+  background-color: #333 !important;
+  color: #fff !important;
 }
 
 
 
 .dropdown-menu a {
-  pointer-events: auto; /* Allow clicking */
+  pointer-events: auto;
+  /* Allow clicking */
 }
 
 
-.info_text > ul {
-  margin-top: 15px; /* Adjust as needed (e.g., 5px, 15px) */
+.info_text>ul {
+  margin-top: 15px;
+  /* Adjust as needed (e.g., 5px, 15px) */
 }
 
-.info_text ul > li > ul {
-  margin-top: 8px;  /* Space between "Exterior Services" and its sub-services like PPF */
+.info_text ul>li>ul {
+  margin-top: 8px;
+  /* Space between "Exterior Services" and its sub-services like PPF */
 }
