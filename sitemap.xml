@@ -1,382 +1,299 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://www.thedetailingguys.in/</loc>
-  <lastmod>2025-10-16T12:01:37+00:00</lastmod>
-  <priority>1.00</priority>
+	<loc>https://www.thedetailingguys.in/</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/about</loc>
-  <lastmod>2025-08-28T13:07:25+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/about</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/ppf-coating-in-pune</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/ppf-coating-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/vinyl-wraps-services-in-pune</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/vinyl-wraps-services-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/ceramic_coating_in_pune</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/graphene-coating-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/poylmer-coating-in-pune</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/ceramic_coating_in_pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/car-wash-service-pune</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/sun-control-film-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/internal-panel-rust-protection</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/denting-painting-service-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/brands/main</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/poylmer-coating-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/pune/areas-we-serve</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/car-wash-service-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/blog/main</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/printed-vinly-graphics</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/contact</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/internal-panel-rust-protection</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/blog/new-car-delivery-detailing-pune</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-interior-services-in-pune/</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/blog/car-interior-cleaning-nibm-undri</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-interior-services-in-pune/car-interior-ppf-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/blog/eco-friendly-car-wash-pune-navratri</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-interior-services-in-pune/car-interior-deep-cleaning-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/sitemap</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-interior-services-in-pune/car-ac-disinfection-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/car-exterior-services-in-pune</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-interior-services-in-pune/car-sound-dampening-service-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/car-interior-services-in-pune/car-interior-services-in-pune</loc>
+	<lastmod>2026-01-02T10:50:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-interior-services-in-pune/car-custom-leather-seats-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/brands/audi-cars-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-interior-services-in-pune/car-floor-lamination-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/brands/car-detailing-service-for-bmw</loc>
+	<lastmod>2026-01-02T10:50:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-interior-services-in-pune/car-leather-enrichment-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/brands/ceramic-coating-for-jaguar-in-pune</loc>
+	<lastmod>2026-01-02T10:50:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-interior-services-in-pune/car-steam-cleaning-service-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/brands/mercedes-benz-car-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-interior-services-in-pune/car-vibration-dampening-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/brands/porsche-car-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/main</loc>
-  <lastmod>2025-09-29T11:09:05+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/brands/toyota-car-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/pune/areas-we-serve</loc>
-  <lastmod>2025-08-29T09:10:45+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/pune/ceramic-coating-services-in-kondhwa</loc>
+	<lastmod>2026-01-02T10:50:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/blog/main</loc>
-  <lastmod>2025-12-08T10:26:47+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/pune/car-detailing-service-undri</loc>
+	<lastmod>2026-01-02T10:50:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/contact</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/pune/car-detailing-service-mohammed-wadi</loc>
+	<lastmod>2026-01-02T10:50:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/blog/new-car-delivery-detailing-pune</loc>
-  <lastmod>2025-10-13T06:29:21+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/pune/car-detailing-service-market-yard</loc>
+	<lastmod>2026-01-02T10:50:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/blog/car-interior-cleaning-nibm-undri</loc>
-  <lastmod>2025-10-02T06:45:06+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/pune/car-detailing-service-camp</loc>
+	<lastmod>2026-01-02T10:50:33+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/blog/eco-friendly-car-wash-pune-navratri</loc>
-  <lastmod>2025-09-19T13:02:41+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/blog/wrap-vs-paint-cost-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/sitemap</loc>
-  <lastmod>2025-12-08T10:26:47+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/blog/ceramic-coating-cost-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-exterior-services-in-pune/car-exterior-services-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/blog/paint-correction-scratch-removal-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/car-interior-services-in-pune/car-interior-services-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://www.thedetailingguys.in/blog/headlight-restoration-pune-safety</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/audi-cars-detailing-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/blog/best-car-detailing-undri-guide</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/car-detailing-service-for-bmw</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/blog/5-signs-car-interior-deep-cleaning-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/ceramic-coating-for-jaguar-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/blog/benefits-of-car-sun-film-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/mercedes-benz-car-detailing-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/blog/graphene-coating-pune-vs-ceramic</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/porsche-car-detailing-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/blog/signs-your-car-needs-ppf-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/toyota-car-detailing-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/blog/matte-paint-matte-ppf-care-dos-donts</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/pune/ceramic-coating-services-in-kondhwa</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/blog/monsoon-to-navratri-ppf-benefits-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/pune/car-detailing-service-undri</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/blog/steam-wash-waterless-wash</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/pune/car-detailing-service-mohammed-wadi</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/blog/ppf-vs-ceramic-coating-services</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/pune/car-detailing-service-market-yard</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/brands/car-detailing-services-for-tata-in-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/pune/car-detailing-service-camp</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/brands/mahindra-cars-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/index</loc>
-  <lastmod>2025-10-16T12:01:37+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/brands/skoda-car-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/car-detailing-services-for-tata-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/brands/hyundai-car-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/mahindra-cars-detailing-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/brands/honda-car-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/skoda-car-detailing-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/brands/volkswagen-car-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:43+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/hyundai-car-detailing-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/pune/car-wash-and-detailing-in-pisoli</loc>
+	<lastmod>2026-01-02T10:50:46+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/honda-car-detailing-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/pune/car-detailing-and-washing-in-hadapsar</loc>
+	<lastmod>2026-01-02T10:50:46+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/volkswagen-car-detailing-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/pune/car-washing-and-detailing-in-handewadi</loc>
+	<lastmod>2026-01-02T10:50:46+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/brands/car-detailing-for-nexa-in-pune</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/luxury/main</loc>
+	<lastmod>2026-01-02T10:50:47+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/pune/car-wash-and-detailing-in-pisoli</loc>
-  <lastmod>2025-08-29T09:10:45+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/luxury/rolls-royce-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:47+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/pune/car-detailing-and-washing-in-hadapsar</loc>
-  <lastmod>2025-08-29T09:10:45+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/luxury/bentley-car-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:47+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/pune/car-washing-and-detailing-in-handewadi</loc>
-  <lastmod>2025-08-29T09:10:45+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/luxury/mclaren-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:47+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/blog/paint-correction-scratch-removal-pune</loc>
-  <lastmod>2025-12-08T10:26:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/luxury/maserati-car-detailing-in-pune</loc>
+	<lastmod>2026-01-02T10:50:47+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/blog/headlight-restoration-pune-safety</loc>
-  <lastmod>2025-12-02T06:24:16+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/luxury/ferrari-car-detailing-service-pune</loc>
+	<lastmod>2026-01-02T10:50:47+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/blog/best-car-detailing-undri-guide</loc>
-  <lastmod>2025-11-25T11:26:07+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in/premium-aircraft-detailing</loc>
+	<lastmod>2026-01-02T10:50:47+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://www.thedetailingguys.in/blog/5-signs-car-interior-deep-cleaning-pune</loc>
-  <lastmod>2025-11-18T05:59:19+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://www.thedetailingguys.in//</loc>
+	<lastmod>2026-01-02T10:51:06+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
-<url>
-  <loc>https://www.thedetailingguys.in/blog/benefits-of-car-sun-film-pune</loc>
-  <lastmod>2025-11-11T06:08:17+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/blog/graphene-coating-pune-vs-ceramic</loc>
-  <lastmod>2025-11-04T09:58:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/blog/signs-your-car-needs-ppf-pune</loc>
-  <lastmod>2025-10-29T05:21:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/blog/matte-paint-matte-ppf-care-dos-donts</loc>
-  <lastmod>2025-10-21T09:21:19+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/blog/monsoon-to-navratri-ppf-benefits-pune</loc>
-  <lastmod>2025-09-19T13:02:41+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/blog/steam-wash-waterless-wash</loc>
-  <lastmod>2025-09-04T11:46:30+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/blog/ppf-vs-ceramic-coating-services</loc>
-  <lastmod>2025-08-28T13:07:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/luxury/main</loc>
-  <lastmod>2025-10-01T08:57:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/luxury/rolls-royce-detailing-in-pune</loc>
-  <lastmod>2025-09-17T06:48:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/luxury/bentley-car-detailing-in-pune</loc>
-  <lastmod>2025-09-17T06:48:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/luxury/mclaren-detailing-in-pune</loc>
-  <lastmod>2025-09-17T06:48:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/luxury/maserati-car-detailing-in-pune</loc>
-  <lastmod>2025-09-17T06:48:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/luxury/ferrari-car-detailing-service-pune</loc>
-  <lastmod>2025-09-15T13:31:02+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/luxury/lamborghini-car-detailing-in-pune</loc>
-  <lastmod>2025-09-15T13:31:02+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.thedetailingguys.in/premium-aircraft-detailing</loc>
-  <lastmod>2025-10-01T08:57:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
 </urlset>
